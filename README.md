@@ -19,20 +19,16 @@ _Computational scientist and software developer based in Dresden, Germany_ <br>
   - Led development of particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
   - Oversaw software architecture, assisted developers and students, provided support to users
   - Contributed to initial design of [interface to develop particle-in-cell extensions](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.023305), implemented it for PICADOR
-  - Co-developed a pioneer particle-in-cell implementations tuned for [first-](https://www.sciencedirect.com/science/article/abs/pii/S0010465516300194?via%3Dihub) and [second-](https://link.springer.com/chapter/10.1007/978-3-319-49956-7_25)generation Intel Xeon Phi
+  - Co-developed a pioneer particle-in-cell implementation tuned for [first-](https://www.sciencedirect.com/science/article/abs/pii/S0010465516300194?via%3Dihub) and [second-](https://link.springer.com/chapter/10.1007/978-3-319-49956-7_25)generation Intel Xeon Phi
 
 - Part-time **Assistant** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(Nov 2010 - Jun 2012)_
   - Was among initial developers of particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
   - Substantially contributed to initial design, implemented most core numerics
   - Led heterogeneous implementation with OpenCL, that was [among the first published](https://www.sciencedirect.com/science/article/abs/pii/S1877750312001019) fully GPU-capable particle-in-cell codes
 
-- **Summer school intern** @ [Intel](https://www.intel.com) _(Jul 2009 - Aug 2009)_
-  - Implemented basic financial math primitives for option pricing in C++
-  - Parallelized it with OpenMP, assisted vectorization by the compiler, applied VTune for performance optimization
-
-- **Summer school intern** @ [Intel](https://www.intel.com) _(Jul 2008 - Aug 2008)_
-  - Implemented a broad phase collision detection algorithm based on octrees in C++
-  - Integrated it to internal version of [Bullet physics](bulletphysics.org) and its collision detection benchmark suite
+- **Summer school intern** @ [Intel](https://www.intel.com) _(Jul 2008 - Aug 2008; Jul 2009 - Aug 2009)_
+  - Implemented and optimized basic financial math primitives for option pricing _(Jul 2008 - Aug 2008)_
+  - Implemented a broad phase collision detection algorithm based on octrees _(Jul 2009 - Aug 2009)_
 
 ## 👨‍🏫 Teaching Experience
 
@@ -69,7 +65,7 @@ _Part-time in parallel to other job commitments, all_ @ [University of Nizhni No
 
 - **PhD in Theoretical Computer Science** (Russian candidate of science)<br>
 [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2012 - Oct 2016)_
-  - Due to the way PhD studies are (under)financed in Russia, it was done in parallel to the jobs described above
+  - Was done in parallel to the jobs described above (as typical for PhD studies in Russia)
   - My PhD studies dealt with polyhedral computation in general dimension case, namely with incremental algorithms for vertex and facet enumeration to compute dual description of convex polyhedra.
   - Developed a new modification of the double description method combining it with some features of the Quickhull algorithm and obtained complexity bounds for the new algorithm.
   - Proposed an algorithmical improvement to Fourier-Motzkin elimination - a faster way of checking conditions for Chernikov rules / Imbert's acceleration theorems.
