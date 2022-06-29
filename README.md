@@ -8,22 +8,29 @@ _Computational scientist and software developer based in Dresden, Germany_ <br>
 ## 👨‍💻 Scientific and Software Experience
 
 - **Postdoctoral researcher** @ [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pNid=0) _(Jan 2018 - present)_
-  - A core developer and maintainer of C++ particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu)
-  - Contributing and maintaining portable parallel programming libraries [alpaka](https://github.com/alpaka-group/alpaka) and [cupla](https://github.com/alpaka-group/cupla)
+  - A core developer and maintainer of C++ exascale particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu)
+  - Implementing and extending core particle-in-cell routines, including state-of-the-art numerics for incident lasers and field absorbers
+  - Preparing and tuning PIConGPU to [run on exascale supercomputers](https://www.olcf.ornl.gov/caar/frontier-caar/)
+  - Largely contributing to [refactoring and modernization](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Arefactoring) of code base and [documentation](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Adocumentation)
+  - Maintaining and contributing to underlying parallel programming libraries [alpaka](https://github.com/alpaka-group/alpaka) and [cupla](https://github.com/alpaka-group/cupla)
  
 - **Software developer** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(March 2016 - Dec 2017)_
-  - Led development of C++ particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
-  - Designed parallel performance primitives for clean expression of core particle-in-cell operations and extensions
+  - Further led development of C++ particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
+  - Oversaw code architecture, assisted other developers, co-supervised students
+  - Designed performant parallel primitives for expression of core particle-in-cell operations and extensions
+  - Enhanced concepts and implementation of [PIC-MDK interface for portable particle-in-cell extensions](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.023305), applied it for [advanced QED extensions](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.7.041003)
+  - Led development of a new [kernel library for particle-in-cell simulations](https://github.com/pictools/pica) based on experience gained in PICADOR
 
-- **Junior researcher** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(Jul 2012 - Dec 2015, with short breaks)_
+- **Junior researcher** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(Jul 2012 - Dec 2015)_
   - Led development of particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
-  - Oversaw software architecture, assisted developers and students, provided support to users
-  - Contributed to initial design of [interface to develop particle-in-cell extensions](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.023305), implemented it for PICADOR
-  - Co-developed a pioneer particle-in-cell implementation tuned for [first-](https://www.sciencedirect.com/science/article/abs/pii/S0010465516300194?via%3Dihub) and [second-](https://link.springer.com/chapter/10.1007/978-3-319-49956-7_25)generation Intel Xeon Phi
+  - Implemented advanced particle-in-cell numerics, including charge-conserving current deposition, incident lasers, absorbing boundaries
+  - Developed a suite of integration and system tests, set up nightly builds
+  - Contributed to initial design of [PIC-MDK interface for portable particle-in-cell extensions](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.023305), implemented it for PICADOR
+  - Co-developed a [novel particle-in-cell implementation for Intel Xeon Phi](https://www.sciencedirect.com/science/article/abs/pii/S0010465516300194?via%3Dihub)
 
 - Part-time **Assistant** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(Nov 2010 - Jun 2012)_
-  - Was among initial developers of particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
-  - Substantially contributed to initial design, implemented most core numerics
+  - Participated in initial development of particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
+  - Largely contributed to initial design, implemented most core particle-in-cell numerics
   - Led heterogeneous implementation with OpenCL, that was [among the first published](https://www.sciencedirect.com/science/article/abs/pii/S1877750312001019) fully GPU-capable particle-in-cell codes
 
 - **Summer school intern** @ [Intel](https://www.intel.com) _(Jul 2008 - Aug 2008; Jul 2009 - Aug 2009)_
@@ -34,7 +41,7 @@ _Computational scientist and software developer based in Dresden, Germany_ <br>
 
 _Part-time in parallel to other job commitments, all_ @ [University of Nizhni Novgorod](http://eng.unn.ru/):
 
-- Taught short classes on GPU computing at ~10 HPC events in Russia _(2011 - 2017)_
+- Assisted on and taught short classes on GPU computing at many HPC events _(2011 - 2017)_
 - Assisted on linear programming class as part of PhD studies _(Jan 2014 - May 2014)_
 - Co-developed a suite of test problems and automatic verification system for parallel numerical methods class _(Jan 2013 - May 2014)_
 - Taught algorithms and data structures for international students in English _(Sep 2013 - Dec 2017)_
@@ -51,9 +58,9 @@ _Part-time in parallel to other job commitments, all_ @ [University of Nizhni No
   - For a [performance study (in Russian)](http://www.mathnet.ru/php/archive.phtml?wshow=paper&jrnid=vmp&paperid=558&option_lang=rus) of realistic particle-in-cell applications on Xeon Phi
 - **Razuvaev scholarship** for PhD students _(2013 - 2015)_
 - Contributions featured **in press**:
-  - *AMD* on [preparing PIConGPU for Frontier supercomputer](https://www.amd.com/system/files/documents/oak-ridge-national-laboratory-picongpu.pdf) - I am a core developer of PIConGPU and work on features needed for future simulations on Frontier
-  - *The register* on [100 GLOPS/s performance of PICADOR on Xeon Phi](https://www.theregister.com/2016/08/09/hot_iron_knights_landing_hits_100_gflops_in_plasma_physics_benchmark/) - I was the lead developer of PICADOR and co-developed port to Xeon Phi
-  - *R&D world* on [large-scale PICADOR simulations on Xeon Phi enabling studies of nonlinear vacuum](https://www.rdworldonline.com/particle-in-cell-plasma-simulation-using-supercomputers-enhances-computational-physics/) - I was the lead developer of PICADOR and co-developed port to Xeon Phi, also co-developed QED-PIC extensions featured
+  - *AMD* on [preparing PIConGPU for Frontier supercomputer](https://www.amd.com/system/files/documents/oak-ridge-national-laboratory-picongpu.pdf) - I am a core developer of PIConGPU and work on features needed for large-scale simulations on Frontier
+  - *The register* on [100 GLOPS/s performance of PICADOR on Xeon Phi](https://www.theregister.com/2016/08/09/hot_iron_knights_landing_hits_100_gflops_in_plasma_physics_benchmark/) - I was lead developer of PICADOR and co-developed implementation for Xeon Phi
+  - *R&D world* on [large-scale PICADOR simulations on Xeon Phi enabling studies of nonlinear vacuum](https://www.rdworldonline.com/particle-in-cell-plasma-simulation-using-supercomputers-enhances-computational-physics/) - I was lead developer of PICADOR and co-developed implementation for Xeon Phi, also co-developed QED-PIC extensions featured
 
 ## 💬 Languages
 
@@ -64,7 +71,7 @@ _Part-time in parallel to other job commitments, all_ @ [University of Nizhni No
 ## 👨‍🎓 Education
 
 - **PhD in Theoretical Computer Science** (Russian candidate of science)<br>
-[University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2012 - Oct 2016)_
+@ [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2012 - Oct 2016)_
   - Was done in parallel to the jobs described above (as typical for PhD studies in Russia)
   - My PhD studies dealt with polyhedral computation in general dimension case, namely with incremental algorithms for vertex and facet enumeration to compute dual description of convex polyhedra.
   - Developed a new modification of the double description method combining it with some features of the Quickhull algorithm and obtained complexity bounds for the new algorithm.
@@ -73,11 +80,11 @@ _Part-time in parallel to other job commitments, all_ @ [University of Nizhni No
   - [Thesis summary (in Russian)](https://diss.unn.ru/files/2016/614/autoref-614.pdf).
 
 - **MSc in Applied Mathematics and Computer Science** with excellence<br>
-[University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2010 - Jun 2012)_ <br>
+@ [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2010 - Jun 2012)_ <br>
   - Diploma work on implementation and properties of [general dimension Quickhull algorithm](https://www.cise.ufl.edu/~ungor/courses/fall06/papers/QuickHull.pdf)
 
 - **BSc in Applied Mathematics and Computer Science** with excellence<br>
-[University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2006 - Jun 2010)_ <br>
+@ [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2006 - Jun 2010)_ <br>
   - In 2007 - 2010 also did extracurricular studies and student projects in parallel programming @ [ITLab](http://eng.itlab.unn.ru/)
 
 ## ♟️ Hobbies
