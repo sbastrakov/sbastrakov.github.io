@@ -3,7 +3,14 @@ _Computational scientist and software developer based in Dresden, Germany_ <br>
 
 [Email](mailto:sergey.bastrakov@gmail.com) / [GitHub](https://github.com/sbastrakov/) / [Google Scholar](https://scholar.google.com/citations?user=2QaTN3wAAAAJ&hl=en)
 
-*This page is work in progress and does not yet reflect all information*
+Researcher and C++ developer, working on advanced software for large scale plasma simulation for 10+ years.
+Currently a core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world's first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/).
+Very experienced in modern C++ and parallel computing including GPUs, with a solid background in math and computer science.
+
+My professional life has so far been connected to academia and scientific computing, however mostly towards the software side.
+Now I am planning to switch to industry and looking for a job as a senior software developer or a position combining software development and research.
+Open to move within Germany, would like to start in Q4 2022.
+Most of my recent work is available [on GitHub](https://github.com/sbastrakov/), and a detailed job and education record is presented below.
 
 ## 👨‍💻 Scientific and Software Experience
 
@@ -41,7 +48,6 @@ _Computational scientist and software developer based in Dresden, Germany_ <br>
 
 _Part-time in parallel to other job commitments, all_ @ [University of Nizhni Novgorod](http://eng.unn.ru/):
 
-- Assisted on and taught short classes on GPU computing at many HPC events _(2011 - 2017)_
 - Assisted on linear programming class as part of PhD studies _(Jan 2014 - May 2014)_
 - Co-developed a suite of test problems and automatic verification system for parallel numerical methods class _(Jan 2013 - May 2014)_
 - Taught algorithms and data structures for international students in English _(Sep 2013 - Dec 2017)_
