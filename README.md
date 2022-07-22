@@ -1,7 +1,7 @@
 # Sergei Bastrakov
 _Computational scientist and software developer based in Dresden, Germany_ <br>
 
-[Email](mailto:sergey.bastrakov@gmail.com) / [GitHub](https://github.com/sbastrakov/) / [Google Scholar](https://scholar.google.com/citations?user=2QaTN3wAAAAJ&hl=en)
+[Email](mailto:sergey.bastrakov@gmail.com) / [GitHub](https://github.com/sbastrakov/) / [Google Scholar](https://scholar.google.com/citations?user=2QaTN3wAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/sbastrakov/)
 
 Researcher and C++ developer, working on advanced software for large scale plasma simulation for 10+ years.
 Currently a core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world's first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/).
