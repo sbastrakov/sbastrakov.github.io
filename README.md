@@ -9,8 +9,6 @@ Very experienced in modern C++ and parallel computing including GPUs, with a sol
 
 My professional life has so far been connected to academia and scientific computing, however mostly towards the software side.
 I would self-describe the nature of my work for last 6 years as a research software engineer, though not by job title.
-Now I am planning to switch to industry and looking for a job as a senior software developer or a position combining software development and research.
-Open to move within Germany, would like to start in Q4 2022.
 Most of my recent work is available [on GitHub](https://github.com/sbastrakov/), and a detailed job and education record is presented below.
 
 ## 👨‍💻 Scientific and Software Experience
