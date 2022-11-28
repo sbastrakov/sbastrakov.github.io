@@ -1,5 +1,5 @@
 # Sergei Bastrakov
-_Software engineer and computational scientistbased in Germany_ <br>
+_Software engineer and computational scientist based in Germany_ <br>
 
 [Email](mailto:sergey.bastrakov@gmail.com) / [GitHub](https://github.com/sbastrakov/) / [Google Scholar](https://scholar.google.com/citations?user=2QaTN3wAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/sbastrakov/)
 
