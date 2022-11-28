@@ -1,19 +1,18 @@
 # Sergei Bastrakov
-_Computational scientist and software developer based in Dresden, Germany_ <br>
+_Software engineer and computational scientistbased in Germany_ <br>
 
 [Email](mailto:sergey.bastrakov@gmail.com) / [GitHub](https://github.com/sbastrakov/) / [Google Scholar](https://scholar.google.com/citations?user=2QaTN3wAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/sbastrakov/)
 
-Researcher and C++ developer, working on advanced software for large scale plasma simulation for 10+ years.
-Currently a core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world's first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/).
+Researcher and C++ developer, having worked on advanced software for large scale plasma simulation for 10+ years.
+Former core developer and maintainer of particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu) preparing it to [run on world's first exascale supercomputer](https://www.olcf.ornl.gov/caar/frontier-caar/).
 Very experienced in modern C++ and parallel computing including GPUs, with a solid background in math and computer science.
 
-My professional life has so far been connected to academia and scientific computing, however mostly towards the software side.
-I would self-describe the nature of my work for last 6 years as a research software engineer, though not by job title.
+My professional life was mostly connected to academia and scientific computing, however mostly towards the software side.
 Most of my recent work is available [on GitHub](https://github.com/sbastrakov/), and a detailed job and education record is presented below.
 
 ## 👨‍💻 Scientific and Software Experience
 
-- **Postdoctoral researcher** @ [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pNid=0) _(Jan 2018 - present)_
+- **Postdoctoral researcher** @ [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pNid=0) _(Jan 2018 - Sep 2022)_
   - A core developer and maintainer of C++ exascale particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu)
   - Implementing and extending core particle-in-cell routines, including state-of-the-art numerics for incident lasers and field absorbers
   - Preparing and tuning PIConGPU to [run on exascale supercomputers](https://www.olcf.ornl.gov/caar/frontier-caar/)
