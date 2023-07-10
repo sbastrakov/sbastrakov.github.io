@@ -85,10 +85,12 @@ _Part-time in parallel to other job commitments, all_ @ [University of Nizhni No
   - Proposed an algorithmical improvement to Fourier-Motzkin elimination - a faster way of checking conditions for Chernikov rules / Imbert's acceleration theorems.
   - For a related problem of incrementally removing vertices/constraints considered a special case and proposed a new algorithm based on reverting iterations of the double description method and proved its polynomiality for this case.
   - [Thesis summary (in Russian)](https://diss.unn.ru/files/2016/614/autoref-614.pdf).
+  - Was awarded several scholarships for academic excellence
 
 - **MSc in Applied Mathematics and Computer Science** with excellence<br>
 @ [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2010 - Jun 2012)_ <br>
   - Diploma work on implementation and properties of [general dimension Quickhull algorithm](https://www.cise.ufl.edu/~ungor/courses/fall06/papers/QuickHull.pdf)
+  - Was awarded several scholarships for academic excellence
 
 - **BSc in Applied Mathematics and Computer Science** with excellence<br>
 @ [University of Nizhni Novgorod](http://eng.unn.ru/) - Nizhni Novgorod, Russia _(Sep 2006 - Jun 2010)_ <br>
