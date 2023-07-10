@@ -17,10 +17,10 @@ PhD in computer science and a solid background in math.
   - Investigating and fixing performance-related issues
 - **Postdoctoral researcher** @ [Helmholtz-Zentrum Dresden-Rossendorf](https://www.hzdr.de/db/Cms?pNid=0) _(Jan 2018 - Sep 2022)_
   - A core developer and maintainer of C++ exascale particle-in-cell code [PIConGPU](https://github.com/ComputationalRadiationPhysics/picongpu)
-  - Implementing and extending core particle-in-cell routines, including state-of-the-art numerics for incident lasers and field absorbers
-  - Preparing and tuning PIConGPU to [run on exascale supercomputers](https://www.olcf.ornl.gov/caar/frontier-caar/)
-  - Largely contributing to [refactoring and modernization](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Arefactoring) of code base and [documentation](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Adocumentation)
-  - Maintaining and contributing to underlying parallel programming libraries [alpaka](https://github.com/alpaka-group/alpaka) and [cupla](https://github.com/alpaka-group/cupla)
+  - Implemented and extended core particle-in-cell routines, including state-of-the-art numerics for incident lasers and field absorbers
+  - Prepared and tuned PIConGPU to [run on exascale supercomputers](https://www.olcf.ornl.gov/caar/frontier-caar/)
+  - Largely contributed to [refactoring and modernization](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Arefactoring) of code base and [documentation](https://github.com/ComputationalRadiationPhysics/picongpu/pulls?q=is%3Apr+author%3Asbastrakov+label%3Adocumentation)
+  - Maintained and contributed to underlying parallel programming libraries [alpaka](https://github.com/alpaka-group/alpaka) and [cupla](https://github.com/alpaka-group/cupla)
  
 - **Software developer** @ [University of Nizhni Novgorod](http://eng.unn.ru/) _(March 2016 - Dec 2017)_
   - Further led development of C++ particle-in-cell code [PICADOR](http://hpc-education.unn.ru/en/research/overview/laser-plasma)
